@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="530"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="500" y="390" type="line"/>
+      <point x="500" y="540" type="line"/>
+      <point x="330" y="540" type="line"/>
+      <point x="427" y="540"/>
+      <point x="480" y="516"/>
+      <point x="480" y="390" type="curve"/>
+    </contour>
+    <contour>
+      <point x="240" y="560" type="line"/>
+      <point x="90" y="560" type="line"/>
+      <point x="90" y="1" type="line"/>
+      <point x="240" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="278" type="line"/>
+      <point x="150" y="278" type="line"/>
+      <point x="150" y="258" type="line"/>
+      <point x="390" y="258" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="40" y="540" type="line"/>
+      <point x="500" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="168" type="line"/>
+      <point x="410" y="368" type="line"/>
+      <point x="390" y="368" type="line"/>
+      <point x="390" y="300"/>
+      <point x="380" y="278"/>
+      <point x="280" y="278" type="curve"/>
+      <point x="280" y="258" type="line"/>
+      <point x="380" y="258"/>
+      <point x="390" y="240"/>
+      <point x="390" y="168" type="curve"/>
+    </contour>
+    <contour>
+      <point x="300" y="20" type="line"/>
+      <point x="40" y="20" type="line" smooth="yes"/>
+      <point x="40" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>530</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

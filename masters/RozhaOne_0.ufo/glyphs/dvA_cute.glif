@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAcute" format="1">
+  <advance width="0"/>
+  <unicode hex="0954"/>
+  <outline>
+    <contour>
+      <point x="-204" y="597" type="line"/>
+      <point x="-202" y="600" type="line"/>
+      <point x="-170" y="613"/>
+      <point x="-147" y="636"/>
+      <point x="-132" y="659" type="curve" smooth="yes"/>
+      <point x="-103" y="705"/>
+      <point x="-98" y="755"/>
+      <point x="-48" y="755" type="curve" smooth="yes"/>
+      <point x="-19" y="755"/>
+      <point x="0" y="733"/>
+      <point x="0" y="708" type="curve" smooth="yes"/>
+      <point x="0" y="630"/>
+      <point x="-120" y="603"/>
+      <point x="-198" y="588" type="curve"/>
+      <point x="-201" y="589" type="line"/>
+    </contour>
+  </outline>
+</glyph>

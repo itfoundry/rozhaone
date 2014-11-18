@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="divide">
+  <advance width="485" />
+  <unicode hex="00F7" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="445" y="242" />
+      <point type="line" x="40" y="242" />
+      <point type="line" x="40" y="222" />
+      <point type="line" x="445" y="222" />
+    </contour>
+    <contour>
+      <point type="curve" x="184" y="362" />
+      <point x="184" y="331" />
+      <point x="209" y="305" />
+      <point type="curve" x="241" y="305" />
+      <point x="272" y="305" />
+      <point x="298" y="331" />
+      <point type="curve" x="298" y="362" />
+      <point x="298" y="393" />
+      <point x="272" y="419" />
+      <point type="curve" x="241" y="419" />
+      <point x="209" y="419" />
+      <point x="184" y="393" />
+    </contour>
+    <contour>
+      <point type="curve" x="184" y="102" />
+      <point x="184" y="70" />
+      <point x="209" y="45" />
+      <point type="curve" x="241" y="45" />
+      <point x="272" y="45" />
+      <point x="298" y="70" />
+      <point type="curve" x="298" y="102" />
+      <point x="298" y="133" />
+      <point x="272" y="159" />
+      <point type="curve" x="241" y="159" />
+      <point x="209" y="159" />
+      <point x="184" y="133" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>485</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

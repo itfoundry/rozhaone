@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKH_Nukta_SA" format="1">
+  <advance width="1265"/>
+  <outline>
+    <contour>
+      <point x="196" y="-63" type="curve" smooth="yes"/>
+      <point x="196" y="-101"/>
+      <point x="165" y="-132"/>
+      <point x="127" y="-132" type="curve" smooth="yes"/>
+      <point x="89" y="-132"/>
+      <point x="58" y="-101"/>
+      <point x="58" y="-63" type="curve" smooth="yes"/>
+      <point x="58" y="-25"/>
+      <point x="89" y="6"/>
+      <point x="127" y="6" type="curve" smooth="yes"/>
+      <point x="165" y="6"/>
+      <point x="196" y="-25"/>
+    </contour>
+    <component base="dvKH"/>
+    <component base="dvSA" xOffset="588"/>
+  </outline>
+</glyph>

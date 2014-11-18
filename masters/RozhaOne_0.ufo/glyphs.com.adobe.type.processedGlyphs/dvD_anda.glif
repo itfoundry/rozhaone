@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvDanda">
+  <advance width="300" />
+  <unicode hex="0964" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="80" y="0" />
+      <point type="line" x="220" y="0" />
+      <point type="line" x="220" y="560" />
+      <point type="line" x="80" y="560" />
+    </contour>
+  </outline>
+</glyph>

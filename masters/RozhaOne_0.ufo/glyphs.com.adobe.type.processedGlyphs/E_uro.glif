@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Euro">
+  <advance width="597" />
+  <unicode hex="20AC" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="407" y="199" />
+      <point type="line" x="407" y="219" />
+      <point type="line" x="253" y="219" />
+      <point x="252" y="236" />
+      <point x="251" y="255" />
+      <point type="curve" x="251" y="274" />
+      <point x="251" y="300" />
+      <point x="252" y="325" />
+      <point type="curve" x="255" y="348" />
+      <point type="line" x="407" y="348" />
+      <point type="line" x="407" y="368" />
+      <point type="line" x="258" y="368" />
+      <point x="275" y="480" />
+      <point x="326" y="551" />
+      <point type="curve" x="407" y="551" />
+      <point x="448" y="551" />
+      <point x="477" y="536" />
+      <point type="curve" x="477" y="510" />
+      <point x="477" y="485" />
+      <point x="434" y="486" />
+      <point type="curve" x="434" y="442" />
+      <point x="434" y="410" />
+      <point x="461" y="385" />
+      <point type="curve" x="499" y="385" />
+      <point x="544" y="385" />
+      <point x="567" y="418" />
+      <point type="curve" x="567" y="455" />
+      <point x="567" y="527" />
+      <point x="492" y="571" />
+      <point type="curve" x="396" y="571" />
+      <point x="246" y="571" />
+      <point x="127" y="500" />
+      <point type="curve" x="89" y="368" />
+      <point type="line" x="20" y="368" />
+      <point type="line" x="20" y="348" />
+      <point type="line" x="84" y="348" />
+      <point x="79" y="324" />
+      <point x="76" y="299" />
+      <point type="curve" x="76" y="272" />
+      <point x="76" y="253" />
+      <point x="77" y="236" />
+      <point type="curve" x="80" y="219" />
+      <point type="line" x="20" y="219" />
+      <point type="line" x="20" y="199" />
+      <point type="line" x="83" y="199" />
+      <point x="113" y="52" />
+      <point x="237" y="-13" />
+      <point type="curve" x="396" y="-13" />
+      <point x="492" y="-13" />
+      <point x="567" y="31" />
+      <point type="curve" x="567" y="103" />
+      <point x="567" y="140" />
+      <point x="544" y="173" />
+      <point type="curve" x="499" y="173" />
+      <point x="461" y="173" />
+      <point x="434" y="148" />
+      <point type="curve" x="434" y="116" />
+      <point x="434" y="72" />
+      <point x="477" y="73" />
+      <point type="curve" x="477" y="48" />
+      <point x="477" y="22" />
+      <point x="448" y="7" />
+      <point type="curve" x="407" y="7" />
+      <point x="322" y="7" />
+      <point x="270" y="79" />
+      <point type="curve" x="255" y="199" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>597</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

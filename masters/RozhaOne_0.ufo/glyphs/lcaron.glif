@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="408"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="240" y="670" type="line"/>
+      <point x="90" y="670" type="line"/>
+      <point x="90" y="1" type="line"/>
+      <point x="240" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="20" type="line"/>
+      <point x="40" y="20" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="670" type="line"/>
+      <point x="40" y="670" type="line"/>
+      <point x="40" y="650" type="line"/>
+      <point x="230" y="650" type="line"/>
+    </contour>
+    <component base="quoteright" xScale="0.74" yScale="0.74" xOffset="273" yOffset="173"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>408</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

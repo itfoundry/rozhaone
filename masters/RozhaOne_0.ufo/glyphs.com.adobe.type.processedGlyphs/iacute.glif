@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="iacute">
+  <advance width="320" />
+  <unicode hex="00ED" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="124" y="501" />
+      <point x="159" y="552" />
+      <point x="208" y="529" />
+      <point type="curve" x="236" y="568" />
+      <point x="259" y="600" />
+      <point x="249" y="638" />
+      <point type="curve" x="222" y="650" />
+      <point x="201" y="663" />
+      <point x="168" y="654" />
+      <point type="curve" x="152" y="632" />
+      <point x="119" y="587" />
+      <point x="144" y="560" />
+      <point type="curve" x="110" y="511" />
+    </contour>
+    <contour>
+      <point type="line" x="240" y="20" />
+      <point type="line" x="240" y="460" />
+      <point type="line" x="230" y="460" />
+      <point type="line" x="90" y="460" />
+      <point type="line" x="50" y="460" />
+      <point type="line" x="50" y="440" />
+      <point type="line" x="90" y="440" />
+      <point type="line" x="90" y="20" />
+      <point type="line" x="40" y="20" />
+      <point type="line" x="40" y="0" />
+      <point type="line" x="290" y="0" />
+      <point type="line" x="290" y="20" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>320</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

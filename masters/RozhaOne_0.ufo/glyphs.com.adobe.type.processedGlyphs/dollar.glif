@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dollar">
+  <advance width="548" />
+  <unicode hex="0024" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="294" y="7" />
+      <point type="line" x="294" y="188" />
+      <point x="352" y="161" />
+      <point x="391" y="136" />
+      <point type="curve" x="391" y="93" />
+      <point x="391" y="40" />
+      <point x="354" y="7" />
+      <point type="curve" x="302" y="7" />
+    </contour>
+    <contour>
+      <point type="line" x="274" y="379" />
+      <point x="218" y="402" />
+      <point x="172" y="423" />
+      <point type="curve" x="172" y="473" />
+      <point x="172" y="517" />
+      <point x="201" y="550" />
+      <point type="curve" x="251" y="550" />
+      <point x="259" y="550" />
+      <point x="267" y="550" />
+      <point type="curve" x="274" y="549" />
+    </contour>
+    <contour>
+      <point type="line" x="294" y="546" />
+      <point x="381" y="531" />
+      <point x="440" y="470" />
+      <point type="curve" x="440" y="387" />
+      <point type="line" x="460" y="387" />
+      <point type="line" x="460" y="570" />
+      <point type="line" x="440" y="570" />
+      <point x="440" y="556" />
+      <point x="436" y="535" />
+      <point type="curve" x="420" y="535" />
+      <point x="395" y="535" />
+      <point x="361" y="559" />
+      <point type="curve" x="294" y="567" />
+      <point type="line" x="294" y="633" />
+      <point type="line" x="274" y="633" />
+      <point type="line" x="274" y="569" />
+      <point x="266" y="570" />
+      <point x="258" y="570" />
+      <point type="curve" x="250" y="570" />
+      <point x="156" y="570" />
+      <point x="76" y="511" />
+      <point type="curve" x="66" y="407" />
+      <point x="55" y="291" />
+      <point x="142" y="257" />
+      <point type="curve" x="251" y="208" />
+      <point type="line" x="274" y="198" />
+      <point type="line" x="274" y="9" />
+      <point x="158" y="22" />
+      <point x="70" y="117" />
+      <point type="curve" x="70" y="233" />
+      <point type="line" x="50" y="233" />
+      <point type="line" x="50" y="0" />
+      <point type="line" x="70" y="0" />
+      <point x="70" y="28" />
+      <point x="85" y="40" />
+      <point type="curve" x="107" y="40" />
+      <point x="139" y="40" />
+      <point x="185" y="-4" />
+      <point type="curve" x="274" y="-13" />
+      <point type="line" x="274" y="-51" />
+      <point type="line" x="294" y="-51" />
+      <point type="line" x="294" y="-15" />
+      <point type="line" x="306" y="-15" />
+      <point x="424" y="-15" />
+      <point x="497" y="42" />
+      <point type="curve" x="508" y="151" />
+      <point x="518" y="283" />
+      <point x="408" y="318" />
+      <point type="curve" x="318" y="360" />
+      <point x="310" y="364" />
+      <point x="302" y="367" />
+      <point type="curve" x="294" y="371" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dollar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>548</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

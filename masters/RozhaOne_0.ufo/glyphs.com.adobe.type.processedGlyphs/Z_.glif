@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Z">
+  <advance width="529" />
+  <unicode hex="005A" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="469" y="210" />
+      <point x="469" y="44" />
+      <point x="416" y="20" />
+      <point type="curve" x="300" y="20" />
+      <point type="line" x="195" y="20" />
+      <point type="line" x="482" y="540" />
+      <point type="line" x="482" y="560" />
+      <point type="line" x="60" y="560" />
+      <point type="line" x="60" y="370" />
+      <point type="line" x="80" y="370" />
+      <point x="80" y="516" />
+      <point x="133" y="540" />
+      <point type="curve" x="249" y="540" />
+      <point type="line" x="313" y="540" />
+      <point type="line" x="30" y="20" />
+      <point type="line" x="30" y="0" />
+      <point type="line" x="489" y="0" />
+      <point type="line" x="489" y="210" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Z</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>529</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

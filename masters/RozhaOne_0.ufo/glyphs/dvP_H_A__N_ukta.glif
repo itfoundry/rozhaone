@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvPHA_Nukta" format="1">
+  <advance width="823"/>
+  <unicode hex="095E"/>
+  <outline>
+    <contour>
+      <point x="487" y="-106" type="move" name="blwm_Ukaar"/>
+    </contour>
+    <contour>
+      <point x="487" y="0" type="move" name="blwm_Virama"/>
+    </contour>
+    <contour>
+      <point x="482" y="560" type="move" name="abvm_Ekaar"/>
+    </contour>
+    <contour>
+      <point x="482" y="560" type="move" name="abvm_Anusvara"/>
+    </contour>
+    <component base="dvPHA" xOffset="5"/>
+    <component base="dvNukta" xOffset="457" yOffset="64"/>
+  </outline>
+</glyph>

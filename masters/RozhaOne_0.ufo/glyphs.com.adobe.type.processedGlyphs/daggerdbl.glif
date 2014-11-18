@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="daggerdbl">
+  <advance width="442" />
+  <unicode hex="2021" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="362" y="153" />
+      <point x="314" y="153" />
+      <point x="280" y="116" />
+      <point type="curve" x="231" y="107" />
+      <point x="236" y="195" />
+      <point x="302" y="266" />
+      <point type="curve" x="302" y="266" />
+      <point x="302" y="268" />
+      <point x="237" y="339" />
+      <point type="curve" x="231" y="426" />
+      <point x="280" y="419" />
+      <point x="314" y="380" />
+      <point type="curve" x="362" y="380" />
+      <point x="398" y="380" />
+      <point x="432" y="396" />
+      <point type="curve" x="432" y="436" />
+      <point x="432" y="475" />
+      <point x="398" y="493" />
+      <point type="curve" x="362" y="493" />
+      <point x="314" y="493" />
+      <point x="280" y="456" />
+      <point type="curve" x="232" y="447" />
+      <point x="237" y="498" />
+      <point x="278" y="550" />
+      <point type="curve" x="278" y="598" />
+      <point x="278" y="634" />
+      <point x="262" y="668" />
+      <point type="curve" x="222" y="668" />
+      <point x="183" y="668" />
+      <point x="165" y="634" />
+      <point type="curve" x="165" y="598" />
+      <point x="165" y="550" />
+      <point x="202" y="499" />
+      <point type="curve" x="211" y="448" />
+      <point x="162" y="455" />
+      <point x="128" y="494" />
+      <point type="curve" x="80" y="494" />
+      <point x="44" y="494" />
+      <point x="10" y="478" />
+      <point type="curve" x="10" y="438" />
+      <point x="10" y="399" />
+      <point x="44" y="381" />
+      <point type="curve" x="80" y="381" />
+      <point x="128" y="381" />
+      <point x="163" y="418" />
+      <point type="curve" x="212" y="427" />
+      <point x="207" y="339" />
+      <point x="140" y="267" />
+      <point type="curve" x="141" y="267" />
+      <point x="140" y="267" />
+      <point x="206" y="195" />
+      <point type="curve" x="212" y="108" />
+      <point x="163" y="114" />
+      <point x="128" y="154" />
+      <point type="curve" x="80" y="154" />
+      <point x="44" y="154" />
+      <point x="10" y="138" />
+      <point type="curve" x="10" y="98" />
+      <point x="10" y="59" />
+      <point x="44" y="41" />
+      <point type="curve" x="80" y="41" />
+      <point x="128" y="41" />
+      <point x="162" y="78" />
+      <point type="curve" x="211" y="87" />
+      <point x="202" y="36" />
+      <point x="165" y="-16" />
+      <point type="curve" x="165" y="-64" />
+      <point x="165" y="-100" />
+      <point x="183" y="-134" />
+      <point type="curve" x="222" y="-134" />
+      <point x="262" y="-134" />
+      <point x="278" y="-100" />
+      <point type="curve" x="278" y="-64" />
+      <point x="278" y="-16" />
+      <point x="237" y="35" />
+      <point type="curve" x="232" y="86" />
+      <point x="280" y="79" />
+      <point x="314" y="40" />
+      <point type="curve" x="362" y="40" />
+      <point x="398" y="40" />
+      <point x="432" y="56" />
+      <point type="curve" x="432" y="96" />
+      <point x="432" y="135" />
+      <point x="398" y="153" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>daggerdbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>442</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

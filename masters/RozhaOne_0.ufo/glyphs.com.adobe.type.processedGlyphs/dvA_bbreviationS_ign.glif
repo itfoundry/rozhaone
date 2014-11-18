@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvAbbreviationSign">
+  <advance width="514" />
+  <unicode hex="0970" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="256" y="449" />
+      <point x="319" y="449" />
+      <point x="330" y="397" />
+      <point type="curve" x="330" y="275" />
+      <point x="330" y="164" />
+      <point x="320" y="86" />
+      <point type="curve" x="259" y="86" />
+      <point x="193" y="86" />
+      <point x="185" y="162" />
+      <point type="curve" x="185" y="275" />
+      <point x="185" y="396" />
+      <point x="197" y="449" />
+    </contour>
+    <contour>
+      <point type="curve" x="480" y="273" />
+      <point x="480" y="380" />
+      <point x="391" y="465" />
+      <point type="curve" x="268" y="465" />
+      <point x="147" y="465" />
+      <point x="35" y="393" />
+      <point type="curve" x="35" y="263" />
+      <point x="35" y="159" />
+      <point x="108" y="66" />
+      <point type="curve" x="251" y="66" />
+      <point x="379" y="66" />
+      <point x="480" y="141" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJA_Nukta" format="1">
+  <advance width="695"/>
+  <unicode hex="095B"/>
+  <outline>
+    <component base="dvNukta" xOffset="462" yOffset="-19"/>
+    <component base="dvJA"/>
+  </outline>
+</glyph>

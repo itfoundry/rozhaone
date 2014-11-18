@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvCH_RA" format="1">
+  <advance width="670"/>
+  <outline>
+    <contour>
+      <point x="409" y="-96" type="move" name="blwm_Ukaar"/>
+    </contour>
+    <contour>
+      <point x="436" y="-44" type="move" name="blwm_Virama"/>
+    </contour>
+    <contour>
+      <point x="526" y="560" type="move" name="abvm_Ekaar"/>
+    </contour>
+    <contour>
+      <point x="526" y="560" type="move" name="abvm_Anusvara"/>
+    </contour>
+    <contour>
+      <point x="353" y="52" type="line"/>
+      <point x="353" y="48" type="line"/>
+      <point x="518" y="-67" type="line"/>
+      <point x="505" y="-86" type="line"/>
+      <point x="338" y="29" type="line"/>
+      <point x="178" y="-82" type="line"/>
+      <point x="165" y="-63" type="line"/>
+      <point x="322" y="48" type="line"/>
+      <point x="322" y="52" type="line"/>
+    </contour>
+    <component base="dvCHA"/>
+  </outline>
+</glyph>

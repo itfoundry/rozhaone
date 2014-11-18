@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvMatraAA">
+  <advance width="300" />
+  <unicode hex="093E" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="320" y="560" />
+      <point type="line" x="-20" y="560" />
+      <point type="line" x="-20" y="540" />
+      <point type="line" x="80" y="540" />
+      <point type="line" x="80" y="0" />
+      <point type="line" x="220" y="0" />
+      <point type="line" x="220" y="540" />
+      <point type="line" x="320" y="540" />
+    </contour>
+  </outline>
+</glyph>

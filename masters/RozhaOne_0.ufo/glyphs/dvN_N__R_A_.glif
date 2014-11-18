@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNN_RA" format="1">
+  <advance width="823"/>
+  <outline>
+    <contour>
+      <point x="323" y="-25" type="line"/>
+      <point x="623" y="181" type="line"/>
+      <point x="612" y="199" type="line"/>
+      <point x="312" y="-7" type="line"/>
+    </contour>
+    <component base="dvNNA"/>
+  </outline>
+</glyph>

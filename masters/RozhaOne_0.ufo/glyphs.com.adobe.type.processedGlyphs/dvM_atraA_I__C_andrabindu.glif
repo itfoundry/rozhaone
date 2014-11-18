@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvMatraAI_Candrabindu">
+  <advance width="0" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-79" y="599" />
+      <point x="-179" y="764" />
+      <point x="-199" y="799" />
+      <point type="curve" x="-241" y="799" />
+      <point x="-259" y="799" />
+      <point x="-277" y="785" />
+      <point type="curve" x="-277" y="764" />
+      <point x="-277" y="751" />
+      <point x="-270" y="735" />
+      <point type="curve" x="-254" y="719" />
+      <point x="-224" y="689" />
+      <point x="-178" y="658" />
+      <point type="curve" x="-95" y="586" />
+    </contour>
+    <contour>
+      <point type="line" x="-151" y="594" />
+      <point x="-313" y="702" />
+      <point x="-359" y="733" />
+      <point type="curve" x="-396" y="733" />
+      <point x="-420" y="733" />
+      <point x="-440" y="719" />
+      <point type="curve" x="-440" y="694" />
+      <point x="-440" y="675" />
+      <point x="-423" y="658" />
+      <point type="curve" x="-396" y="648" />
+      <point x="-351" y="631" />
+      <point x="-272" y="612" />
+      <point type="curve" x="-160" y="574" />
+    </contour>
+    <contour>
+      <point type="curve" x="97" y="930" />
+      <point x="97" y="968" />
+      <point x="66" y="998" />
+      <point type="curve" x="28" y="998" />
+      <point x="-10" y="998" />
+      <point x="-40" y="968" />
+      <point type="curve" x="-40" y="930" />
+      <point x="-40" y="892" />
+      <point x="-10" y="861" />
+      <point type="curve" x="28" y="861" />
+      <point x="66" y="861" />
+      <point x="97" y="892" />
+    </contour>
+    <contour>
+      <point type="line" x="-125" y="863" />
+      <point x="-125" y="773" />
+      <point x="-56" y="690" />
+      <point type="curve" x="28" y="690" />
+      <point x="118" y="690" />
+      <point x="183" y="776" />
+      <point type="curve" x="183" y="863" />
+      <point type="line" x="163" y="869" />
+      <point x="151" y="836" />
+      <point x="111" y="796" />
+      <point type="curve" x="27" y="796" />
+      <point x="-43" y="796" />
+      <point x="-92" y="831" />
+      <point type="curve" x="-105" y="869" />
+    </contour>
+  </outline>
+</glyph>

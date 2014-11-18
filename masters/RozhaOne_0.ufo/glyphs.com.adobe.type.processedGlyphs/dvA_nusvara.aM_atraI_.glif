@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvAnusvara.aMatraI">
+  <advance width="0" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="290" y="691" />
+      <point x="290" y="729" />
+      <point x="260" y="760" />
+      <point type="curve" x="222" y="760" />
+      <point x="184" y="760" />
+      <point x="154" y="729" />
+      <point type="curve" x="154" y="691" />
+      <point x="154" y="653" />
+      <point x="184" y="623" />
+      <point type="curve" x="222" y="623" />
+      <point x="260" y="623" />
+      <point x="290" y="653" />
+    </contour>
+  </outline>
+</glyph>

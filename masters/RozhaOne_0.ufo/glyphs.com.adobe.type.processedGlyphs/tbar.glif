@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="tbar">
+  <advance width="381" />
+  <unicode hex="0167" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="234" y="270" />
+      <point type="line" x="350" y="270" />
+      <point type="line" x="350" y="290" />
+      <point type="line" x="234" y="290" />
+      <point type="line" x="234" y="440" />
+      <point type="line" x="350" y="440" />
+      <point type="line" x="350" y="460" />
+      <point type="line" x="234" y="460" />
+      <point type="line" x="234" y="603" />
+      <point type="line" x="220" y="603" />
+      <point x="200" y="518" />
+      <point x="144" y="470" />
+      <point type="curve" x="84" y="460" />
+      <point type="line" x="10" y="460" />
+      <point type="line" x="10" y="440" />
+      <point type="line" x="84" y="440" />
+      <point type="line" x="84" y="290" />
+      <point type="line" x="10" y="290" />
+      <point type="line" x="10" y="270" />
+      <point type="line" x="84" y="270" />
+      <point type="line" x="84" y="173" />
+      <point x="84" y="27" />
+      <point x="154" y="-10" />
+      <point type="curve" x="256" y="-10" />
+      <point x="303" y="-10" />
+      <point x="334" y="5" />
+      <point type="curve" x="361" y="24" />
+      <point type="line" x="361" y="44" />
+      <point x="349" y="36" />
+      <point x="329" y="34" />
+      <point type="curve" x="308" y="34" />
+      <point x="234" y="34" />
+      <point x="234" y="118" />
+      <point type="curve" x="234" y="196" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>381</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

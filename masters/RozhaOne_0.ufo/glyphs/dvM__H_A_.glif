@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_HA" format="1">
+  <advance width="856"/>
+  <outline>
+    <contour>
+      <point x="699" y="-77" type="move" name="blwm_Ukaar"/>
+    </contour>
+    <contour>
+      <point x="728" y="-9" type="move" name="blwm_Virama"/>
+    </contour>
+    <contour>
+      <point x="769" y="560" type="move" name="abvm_Ekaar"/>
+    </contour>
+    <contour>
+      <point x="769" y="560" type="move" name="abvm_Anusvara"/>
+    </contour>
+    <component base="dvM" xOffset="-2"/>
+    <component base="dvHA" xOffset="350"/>
+  </outline>
+</glyph>

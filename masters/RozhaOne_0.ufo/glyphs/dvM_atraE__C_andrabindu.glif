@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraE_Candrabindu" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-80" y="560" type="move" name="_abvm_Ekaar"/>
+    </contour>
+    <contour>
+      <point x="-193" y="845" type="line"/>
+      <point x="-179" y="807"/>
+      <point x="-130" y="772"/>
+      <point x="-61" y="772" type="curve" smooth="yes"/>
+      <point x="24" y="772"/>
+      <point x="64" y="812"/>
+      <point x="76" y="845" type="curve"/>
+      <point x="96" y="839" type="line"/>
+      <point x="96" y="752"/>
+      <point x="31" y="666"/>
+      <point x="-60" y="666" type="curve" smooth="yes"/>
+      <point x="-143" y="666"/>
+      <point x="-213" y="749"/>
+      <point x="-213" y="839" type="curve"/>
+    </contour>
+    <contour>
+      <point x="10" y="906" type="curve" smooth="yes"/>
+      <point x="10" y="868"/>
+      <point x="-21" y="837"/>
+      <point x="-59" y="837" type="curve" smooth="yes"/>
+      <point x="-97" y="837"/>
+      <point x="-127" y="868"/>
+      <point x="-127" y="906" type="curve" smooth="yes"/>
+      <point x="-127" y="944"/>
+      <point x="-97" y="974"/>
+      <point x="-59" y="974" type="curve" smooth="yes"/>
+      <point x="-21" y="974"/>
+      <point x="10" y="944"/>
+    </contour>
+    <contour>
+      <point x="-159" y="587" type="line"/>
+      <point x="-278" y="643"/>
+      <point x="-343" y="660"/>
+      <point x="-385" y="689" type="curve" smooth="yes"/>
+      <point x="-404" y="702"/>
+      <point x="-414" y="721"/>
+      <point x="-414" y="739" type="curve" smooth="yes"/>
+      <point x="-414" y="767"/>
+      <point x="-391" y="788"/>
+      <point x="-363" y="788" type="curve" smooth="yes"/>
+      <point x="-351" y="788"/>
+      <point x="-338" y="784"/>
+      <point x="-327" y="776" type="curve" smooth="yes"/>
+      <point x="-283" y="747"/>
+      <point x="-245" y="693"/>
+      <point x="-150" y="601" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
