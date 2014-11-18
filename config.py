@@ -1,13 +1,9 @@
 #!/usr/bin/python
 
-FAMILY_NAME = 'SomeDevanagari'
+FAMILY_NAME = 'RozhaOne'
 
 STYLE_NAMES = [
-    'Light',
     'Regular',
-    'Medium',
-    'SemiBold',
-    'Bold',
 ]
 
 UFOIG_ARGS = [
@@ -21,11 +17,7 @@ UFOIG_ARGS = [
 ]
 
 MATCH_mI_OFFSETS_DICT = {
-    'Light':    0,
     'Regular':  0,
-    'Medium':   0,
-    'SemiBold': 0,
-    'Bold':     0,
 }
 
 MAKEOTF_ARGS = [
