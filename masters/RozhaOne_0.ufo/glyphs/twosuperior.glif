@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twosuperior" format="1">
   <advance width="259"/>
+  <unicode hex="00B2"/>
   <outline>
     <contour>
       <point x="212" y="412" type="line"/>

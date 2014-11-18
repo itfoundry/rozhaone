@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvMatraAU" format="1">
-  <advance width="300"/>
-  <unicode hex="094C"/>
-  <outline>
-    <component base="dvMatraAA"/>
-    <component base="dvMatraAI" xOffset="320"/>
-  </outline>
-</glyph>

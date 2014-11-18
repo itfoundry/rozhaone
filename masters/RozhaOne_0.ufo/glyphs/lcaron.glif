@@ -21,7 +21,7 @@
       <point x="40" y="650" type="line"/>
       <point x="230" y="650" type="line"/>
     </contour>
-    <component base="quoteright" xScale="0.74" yScale="0.74" xOffset="273" yOffset="173"/>
+    <component base="quoteright" xScale="0.740000009537" yScale="0.740000009537" xOffset="273" yOffset="173"/>
   </outline>
   <lib>
     <dict>

@@ -4,10 +4,10 @@
   <unicode hex="0914"/>
   <outline>
     <contour>
-      <point x="1100" y="560" type="move" name="abvm_Anusvara"/>
+      <point x="1100" y="560" type="move" name="abvm.bindu"/>
     </contour>
-    <component base="dvMatraAI" xOffset="1028"/>
+    <component base="dvmAI" xOffset="1028"/>
     <component base="dvA"/>
-    <component base="dvMatraAA" xOffset="709"/>
+    <component base="dvmAA" xOffset="709"/>
   </outline>
 </glyph>

@@ -4,16 +4,16 @@
   <unicode hex="0920"/>
   <outline>
     <contour>
-      <point x="336" y="-39" type="move" name="blwm_Ukaar"/>
+      <point x="336" y="-39" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="346" y="35" type="move" name="blwm_Virama"/>
+      <point x="346" y="35" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="337" y="560" type="move" name="abvm_Ekaar"/>
+      <point x="337" y="560" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="337" y="560" type="move" name="abvm_Anusvara"/>
+      <point x="337" y="560" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
       <point x="265" y="59" type="curve"/>

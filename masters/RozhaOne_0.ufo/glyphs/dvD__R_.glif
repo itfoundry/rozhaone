@@ -60,6 +60,6 @@
       <point x="415" y="53"/>
       <point x="446" y="95"/>
     </contour>
-    <component base="dvVirama" xOffset="520" yOffset="-50"/>
+    <component base="dvVirama" xOffset="470" yOffset="-50"/>
   </outline>
 </glyph>

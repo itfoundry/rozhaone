@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvG_Nukta_RA" format="1">
-  <advance width="664"/>
-  <outline>
-    <component base="dvG_RA"/>
-    <component base="dvNukta" xOffset="585" yOffset="-32"/>
-  </outline>
-</glyph>

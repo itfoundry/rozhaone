@@ -6,34 +6,28 @@
 	<integer>873</integer>
 	<key>capHeight</key>
 	<integer>560</integer>
-	<key>copyright</key>
-	<string>Copyright (c) 2011 by Tim Donaldson. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-341</integer>
+	<key>familyName</key>
+	<string>Rozha One</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Rozha One</string>
-	<key>openTypeHeadCreated</key>
-	<string>2014/07/05 16:13:55</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>9</integer>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Rozha One</string>
-	<key>openTypeNameDescription</key>
-	<string>Copyright (c) 2011 by . All rights reserved.</string>
+	<key>openTypeHheaAscender</key>
+	<integer>750</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-250</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>9</integer>
 	<key>openTypeNameDesigner</key>
-	<string>Tim Donaldson</string>
-	<key>openTypeNameDesignerURL</key>
-	<string>www.thesuburbs.co.nz</string>
+	<string>Tim Donaldson and Jyotish Sonowal (Devanagari), Shiva Nallaperumal (Latin)</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Tim Donaldson</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Rozha One</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Bold</string>
-	<key>openTypeNameUniqueID</key>
-	<string>TimDonaldson: Chic Devanagri Bold: 2011</string>
+	<string>Indian Type Foundry</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -81,15 +75,14 @@
 	<array>
 		<integer>2</integer>
 	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>750</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-250</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
-		<integer>0</integer>
-		<integer>1</integer>
-		<integer>15</integer>
-		<integer>31</integer>
-		<integer>33</integer>
-		<integer>35</integer>
-		<integer>38</integer>
 	</array>
 	<key>openTypeOS2VendorID</key>
 	<string>pyrs</string>
@@ -97,6 +90,10 @@
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>0</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
@@ -105,13 +102,17 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>0</integer>
-		<integer>0</integer>
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFontName</key>
-	<string>RozhaOne-Regular</string>
+	<string>RozhaOne</string>
 	<key>postscriptForceBold</key>
 	<true/>
 	<key>postscriptFullName</key>
@@ -122,25 +123,29 @@
 	<array>
 	</array>
 	<key>postscriptSlantAngle</key>
-	<real>0.0</real>
+	<real>-0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>109</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>135</integer>
 	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
+	<key>styleMapFamilyName</key>
+	<string>Rozha One</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
-	<key>trademark</key>
-	<string>Chic Devanagri Bold is a trademark of Tim Donaldson.</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
@@ -150,6 +155,6 @@
 	<key>xHeight</key>
 	<integer>540</integer>
 	<key>year</key>
-	<integer>2011</integer>
+	<integer>2014</integer>
 </dict>
 </plist>

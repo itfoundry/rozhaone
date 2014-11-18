@@ -3,9 +3,9 @@
   <advance width="709"/>
   <outline>
     <contour>
-      <point x="629" y="721" type="move" name="abvm_Anusvara"/>
+      <point x="629" y="721" type="move" name="abvm.bindu"/>
     </contour>
     <component base="dvA"/>
-    <component base="dvMatraEcandra" xOffset="716"/>
+    <component base="dvmEcandra" xOffset="716"/>
   </outline>
 </glyph>

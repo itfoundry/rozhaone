@@ -14,7 +14,7 @@
     </contour>
     <contour>
       <point x="447" y="560" type="line"/>
-      <point x="197" y="560" type="line" smooth="yes"/>
+      <point x="197" y="560" type="line"/>
       <point x="197" y="540" type="line"/>
       <point x="447" y="540" type="line"/>
     </contour>
@@ -26,13 +26,13 @@
     </contour>
     <contour>
       <point x="447" y="20" type="line"/>
-      <point x="367" y="20" type="line" smooth="yes"/>
+      <point x="367" y="20" type="line"/>
       <point x="367" y="0" type="line"/>
       <point x="447" y="0" type="line"/>
     </contour>
     <contour>
       <point x="207" y="20" type="line"/>
-      <point x="127" y="20" type="line" smooth="yes"/>
+      <point x="127" y="20" type="line"/>
       <point x="127" y="0" type="line"/>
       <point x="207" y="0" type="line"/>
     </contour>

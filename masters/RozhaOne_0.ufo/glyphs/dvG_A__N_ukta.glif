@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvGA_Nukta" format="1">
-  <advance width="664"/>
-  <unicode hex="095A"/>
-  <outline>
-    <component base="dvGA"/>
-    <component base="dvNukta" xOffset="477" yOffset="56"/>
-  </outline>
-</glyph>
