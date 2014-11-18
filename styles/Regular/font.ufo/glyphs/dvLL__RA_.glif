@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvLL_RA" format="1">
+  <advance width="756"/>
+  <outline>
+    <contour>
+      <point x="568" y="35" type="line"/>
+      <point x="568" y="31" type="line"/>
+      <point x="733" y="-84" type="line"/>
+      <point x="721" y="-102" type="line"/>
+      <point x="553" y="14" type="line"/>
+      <point x="392" y="-98" type="line"/>
+      <point x="380" y="-80" type="line"/>
+      <point x="537" y="31" type="line"/>
+      <point x="537" y="35" type="line"/>
+    </contour>
+    <component base="dvLLA"/>
+  </outline>
+</glyph>

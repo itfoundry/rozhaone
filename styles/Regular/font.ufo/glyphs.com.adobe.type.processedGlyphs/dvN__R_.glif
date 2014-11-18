@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvN_R">
+  <advance width="274" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="363" y="560" />
+      <point type="line" x="-20" y="560" />
+      <point type="line" x="-20" y="540" />
+      <point type="line" x="363" y="540" />
+    </contour>
+    <contour>
+      <point type="line" x="356" y="278" />
+      <point type="line" x="329" y="253" />
+      <point x="281" y="360" />
+      <point x="227" y="437" />
+      <point type="curve" x="142" y="437" />
+      <point x="76" y="437" />
+      <point x="23" y="384" />
+      <point type="curve" x="23" y="316" />
+      <point x="23" y="265" />
+      <point x="52" y="223" />
+      <point type="curve" x="106" y="223" />
+      <point x="148" y="223" />
+      <point x="178" y="254" />
+      <point type="curve" x="178" y="293" />
+      <point x="178" y="379" />
+      <point x="93" y="356" />
+      <point type="curve" x="93" y="388" />
+      <point x="93" y="406" />
+      <point x="114" y="417" />
+      <point type="curve" x="142" y="417" />
+      <point x="211" y="417" />
+      <point x="259" y="359" />
+      <point type="curve" x="313" y="240" />
+      <point type="line" x="64" y="16" />
+      <point type="line" x="77" y="0" />
+      <point type="line" x="367" y="260" />
+    </contour>
+  </outline>
+</glyph>

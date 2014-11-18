@@ -1,0 +1,16 @@
+# Created: Tue Nov 18 19:49:54 2014
+# PS Name: RozhaOne-Regular
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.bindu_n80_560 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
+@mGC_abvm.e_n80_560 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_0_628 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
+@mGC_blwm.u_n83_0 = [dvmU dvmUU dvmvR dvmvRR dvmvL dvmvLL];
+
+markClass @mGC_abvm.bindu_n80_560 <anchor -80 560> @MC_abvm.bindu;
+markClass @mGC_abvm.e_n80_560 <anchor -80 560> @MC_abvm.e;
+markClass @mGC_abvm.i_0_628 <anchor 0 628> @MC_abvm.i;
+markClass @mGC_blwm.u_n83_0 <anchor -83 0> @MC_blwm.u;
+markClass dvVirama <anchor -80 0> @MC_blwm.virama;
+

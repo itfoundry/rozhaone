@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="doubledanda">
+  <advance width="599" />
+  <unicode hex="0965" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="519" y="0" />
+      <point type="line" x="519" y="560" />
+      <point type="line" x="379" y="560" />
+      <point type="line" x="379" y="0" />
+    </contour>
+    <contour>
+      <point type="line" x="270" y="0" />
+      <point type="line" x="270" y="560" />
+      <point type="line" x="130" y="560" />
+      <point type="line" x="130" y="0" />
+    </contour>
+  </outline>
+</glyph>

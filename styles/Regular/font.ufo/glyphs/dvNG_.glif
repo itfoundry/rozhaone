@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNG" format="1">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="406" y="560" type="line"/>
+      <point x="552" y="560" type="line"/>
+      <point x="552" y="540" type="line"/>
+      <point x="406" y="540" type="line"/>
+    </contour>
+    <component base="dvVirama" xOffset="383" yOffset="5"/>
+    <component base="dvDDA" xOffset="-1"/>
+    <component base="dvNukta" xOffset="753" yOffset="410"/>
+  </outline>
+</glyph>

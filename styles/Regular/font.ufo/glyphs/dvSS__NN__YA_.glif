@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_NN_YA" format="1">
+  <advance width="1449"/>
+  <outline>
+    <contour>
+      <point x="1229" y="0" type="line"/>
+      <point x="1369" y="0" type="line"/>
+      <point x="1369" y="559" type="line"/>
+      <point x="1229" y="559" type="line"/>
+    </contour>
+    <contour>
+      <point x="789" y="540" type="line"/>
+      <point x="1469" y="540" type="line"/>
+      <point x="1469" y="560" type="line"/>
+      <point x="789" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="987" y="295" type="curve"/>
+      <point x="1078" y="304"/>
+      <point x="1133" y="345"/>
+      <point x="1133" y="419" type="curve" smooth="yes"/>
+      <point x="1133" y="495"/>
+      <point x="1075" y="546"/>
+      <point x="983" y="546" type="curve" smooth="yes"/>
+      <point x="868" y="546" type="line"/>
+      <point x="868" y="540" type="line"/>
+      <point x="940" y="540"/>
+      <point x="988" y="519"/>
+      <point x="988" y="431" type="curve" smooth="yes"/>
+      <point x="988" y="349"/>
+      <point x="933" y="320"/>
+      <point x="859" y="320" type="curve" smooth="yes"/>
+      <point x="852" y="320"/>
+      <point x="842" y="321"/>
+      <point x="842" y="321" type="curve"/>
+      <point x="841" y="314"/>
+      <point x="840" y="304"/>
+      <point x="840" y="289" type="curve" smooth="yes"/>
+      <point x="840" y="166"/>
+      <point x="939" y="96"/>
+      <point x="1069" y="96" type="curve" smooth="yes"/>
+      <point x="1143" y="96"/>
+      <point x="1235" y="133"/>
+      <point x="1251" y="218" type="curve"/>
+      <point x="1234" y="242" type="line"/>
+      <point x="1234" y="176"/>
+      <point x="1177" y="132"/>
+      <point x="1106" y="132" type="curve" smooth="yes"/>
+      <point x="1018" y="132"/>
+      <point x="986" y="209"/>
+      <point x="986" y="277" type="curve" smooth="yes"/>
+      <point x="986" y="285"/>
+      <point x="987" y="294"/>
+    </contour>
+    <component base="dvSS"/>
+    <component base="dvNN" xOffset="290"/>
+  </outline>
+</glyph>

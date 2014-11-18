@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvCandrabindu">
+  <advance width="0" />
+  <unicode hex="0901" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="9" y="802" />
+      <point type="line" x="7" y="801" />
+      <point x="-4" y="755" />
+      <point x="-61" y="724" />
+      <point type="curve" x="-150" y="724" />
+      <point x="-238" y="724" />
+      <point x="-295" y="755" />
+      <point type="curve" x="-306" y="801" />
+      <point type="line" x="-308" y="802" />
+      <point type="line" x="-318" y="800" />
+      <point type="line" x="-320" y="798" />
+      <point x="-323" y="692" />
+      <point x="-252" y="631" />
+      <point type="curve" x="-150" y="631" />
+      <point x="-48" y="631" />
+      <point x="24" y="691" />
+      <point type="curve" x="21" y="798" />
+      <point type="line" x="19" y="800" />
+    </contour>
+    <contour>
+      <point type="curve" x="-82" y="853" />
+      <point x="-82" y="891" />
+      <point x="-112" y="921" />
+      <point type="curve" x="-150" y="921" />
+      <point x="-188" y="921" />
+      <point x="-219" y="891" />
+      <point type="curve" x="-219" y="853" />
+      <point x="-219" y="815" />
+      <point x="-188" y="784" />
+      <point type="curve" x="-150" y="784" />
+      <point x="-112" y="784" />
+      <point x="-82" y="815" />
+    </contour>
+  </outline>
+</glyph>

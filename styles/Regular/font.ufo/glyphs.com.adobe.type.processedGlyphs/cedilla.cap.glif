@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="cedilla.cap">
+  <advance width="588" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="322" y="4" />
+      <point type="line" x="294" y="4" />
+      <point type="line" x="242" y="-92" />
+      <point x="282" y="-92" />
+      <point x="329" y="-119" />
+      <point type="curve" x="320" y="-171" />
+      <point x="310" y="-226" />
+      <point x="247" y="-230" />
+      <point type="curve" x="216" y="-177" />
+      <point type="line" x="200" y="-192" />
+      <point x="200" y="-192" />
+      <point x="221" y="-235" />
+      <point type="curve" x="287" y="-238" />
+      <point x="354" y="-241" />
+      <point x="383" y="-209" />
+      <point type="curve" x="388" y="-160" />
+      <point x="393" y="-109" />
+      <point x="341" y="-78" />
+      <point type="curve" x="277" y="-77" />
+    </contour>
+  </outline>
+</glyph>
