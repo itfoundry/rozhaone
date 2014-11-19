@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJ_JA" format="1">
+  <advance width="1122"/>
+  <outline>
+    <contour>
+      <point x="413" y="450" type="line"/>
+      <point x="651" y="450" type="line"/>
+      <point x="652" y="430" type="line"/>
+      <point x="412" y="430" type="line"/>
+    </contour>
+    <component base="dvJ"/>
+    <component base="dvJA" xOffset="427"/>
+  </outline>
+</glyph>

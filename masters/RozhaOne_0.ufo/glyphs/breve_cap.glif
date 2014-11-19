@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.cap" format="1">
+  <advance width="584"/>
+  <outline>
+    <contour>
+      <point x="293" y="696" type="curve"/>
+      <point x="236" y="696"/>
+      <point x="220" y="718"/>
+      <point x="220" y="745" type="curve"/>
+      <point x="200" y="745" type="line"/>
+      <point x="200" y="671"/>
+      <point x="224" y="620"/>
+      <point x="293" y="620" type="curve"/>
+      <point x="364" y="620"/>
+      <point x="384" y="671"/>
+      <point x="384" y="745" type="curve"/>
+      <point x="364" y="745" type="line"/>
+      <point x="364" y="718"/>
+      <point x="350" y="696"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>313</integer>
+          <key>y</key>
+          <integer>745</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>breve.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>584</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.cap" format="1">
+  <advance width="594"/>
+  <outline>
+    <contour>
+      <point x="209" y="614" type="line"/>
+      <point x="297" y="654" type="line"/>
+      <point x="385" y="614" type="line"/>
+      <point x="394" y="623" type="line"/>
+      <point x="306" y="751" type="line"/>
+      <point x="287" y="751" type="line"/>
+      <point x="200" y="623" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>594</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
