@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Aacute">
+  <advance width="643" />
+  <unicode hex="00C1" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="321" y="601" />
+      <point x="356" y="652" />
+      <point x="405" y="629" />
+      <point type="curve" x="433" y="668" />
+      <point x="456" y="700" />
+      <point x="446" y="738" />
+      <point type="curve" x="419" y="750" />
+      <point x="398" y="763" />
+      <point x="365" y="754" />
+      <point type="curve" x="349" y="732" />
+      <point x="316" y="687" />
+      <point x="341" y="660" />
+      <point type="curve" x="307" y="611" />
+    </contour>
+    <contour>
+      <point type="line" x="169" y="180" />
+      <point type="line" x="254" y="384" />
+      <point type="line" x="352" y="180" />
+    </contour>
+    <contour>
+      <point type="line" x="585" y="20" />
+      <point type="line" x="331" y="570" />
+      <point type="line" x="306" y="570" />
+      <point type="line" x="77" y="20" />
+      <point type="line" x="10" y="20" />
+      <point type="line" x="10" y="0" />
+      <point type="line" x="181" y="0" />
+      <point type="line" x="181" y="20" />
+      <point type="line" x="102" y="20" />
+      <point type="line" x="160" y="159" />
+      <point type="line" x="362" y="159" />
+      <point type="line" x="429" y="20" />
+      <point type="line" x="370" y="20" />
+      <point type="line" x="370" y="0" />
+      <point type="line" x="633" y="0" />
+      <point type="line" x="633" y="20" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Aacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>643</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

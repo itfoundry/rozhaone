@@ -3,7 +3,7 @@
   <advance width="300"/>
   <unicode hex="094B"/>
   <outline>
-    <component base="dvmE" xOffset="296"/>
     <component base="dvmAA"/>
+    <component base="dvmE" xOffset="296"/>
   </outline>
 </glyph>

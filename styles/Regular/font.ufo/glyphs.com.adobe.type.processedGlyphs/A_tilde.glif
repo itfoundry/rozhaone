@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Atilde">
+  <advance width="643" />
+  <unicode hex="00C3" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="400" y="721" />
+      <point x="400" y="707" />
+      <point x="394" y="695" />
+      <point type="curve" x="374" y="695" />
+      <point x="344" y="695" />
+      <point x="326" y="726" />
+      <point type="curve" x="289" y="726" />
+      <point x="252" y="726" />
+      <point x="222" y="704" />
+      <point type="curve" x="222" y="630" />
+      <point type="line" x="242" y="630" />
+      <point x="242" y="644" />
+      <point x="248" y="657" />
+      <point type="curve" x="266" y="657" />
+      <point x="296" y="657" />
+      <point x="314" y="625" />
+      <point type="curve" x="352" y="625" />
+      <point x="390" y="625" />
+      <point x="420" y="649" />
+      <point type="curve" x="420" y="721" />
+    </contour>
+    <contour>
+      <point type="line" x="169" y="180" />
+      <point type="line" x="254" y="384" />
+      <point type="line" x="352" y="180" />
+    </contour>
+    <contour>
+      <point type="line" x="585" y="20" />
+      <point type="line" x="331" y="570" />
+      <point type="line" x="306" y="570" />
+      <point type="line" x="77" y="20" />
+      <point type="line" x="10" y="20" />
+      <point type="line" x="10" y="0" />
+      <point type="line" x="181" y="0" />
+      <point type="line" x="181" y="20" />
+      <point type="line" x="102" y="20" />
+      <point type="line" x="160" y="159" />
+      <point type="line" x="362" y="159" />
+      <point type="line" x="429" y="20" />
+      <point type="line" x="370" y="20" />
+      <point type="line" x="370" y="0" />
+      <point type="line" x="633" y="0" />
+      <point type="line" x="633" y="20" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Atilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>643</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

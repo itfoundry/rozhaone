@@ -6,6 +6,8 @@
     <contour>
       <point name="hintSet0000" type="line" x="240" y="20" />
       <point type="line" x="240" y="460" />
+      <point type="line" x="230" y="460" />
+      <point type="line" x="90" y="460" />
       <point type="line" x="50" y="460" />
       <point type="line" x="50" y="440" />
       <point type="line" x="90" y="440" />
@@ -16,4 +18,33 @@
       <point type="line" x="290" y="20" />
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotlessi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>330</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

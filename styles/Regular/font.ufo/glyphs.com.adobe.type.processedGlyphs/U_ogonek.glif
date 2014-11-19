@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Uogonek">
+  <advance width="605" />
+  <unicode hex="0172" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="441" y="560" />
+      <point type="line" x="441" y="540" />
+      <point type="line" x="520" y="540" />
+      <point type="line" x="520" y="224" />
+      <point x="520" y="85" />
+      <point x="439" y="14" />
+      <point type="curve" x="370" y="14" />
+      <point x="277" y="14" />
+      <point x="230" y="87" />
+      <point type="curve" x="230" y="223" />
+      <point type="line" x="230" y="540" />
+      <point type="line" x="280" y="540" />
+      <point type="line" x="280" y="560" />
+      <point type="line" x="20" y="560" />
+      <point type="line" x="20" y="540" />
+      <point type="line" x="70" y="540" />
+      <point type="line" x="70" y="234" />
+      <point x="70" y="63" />
+      <point x="171" y="-15" />
+      <point type="curve" x="327" y="-15" />
+      <point type="line" x="331" y="-15" />
+      <point x="227" y="-123" />
+      <point x="277" y="-177" />
+      <point type="curve" x="336" y="-177" />
+      <point x="368" y="-177" />
+      <point x="400" y="-154" />
+      <point type="curve" x="418" y="-131" />
+      <point type="line" x="408" y="-119" />
+      <point x="395" y="-131" />
+      <point x="372" y="-135" />
+      <point type="curve" x="352" y="-121" />
+      <point x="331" y="-105" />
+      <point x="323" y="-74" />
+      <point type="curve" x="363" y="-13" />
+      <point x="483" y="1" />
+      <point x="545" y="86" />
+      <point type="curve" x="545" y="244" />
+      <point type="line" x="545" y="540" />
+      <point type="line" x="595" y="540" />
+      <point type="line" x="595" y="560" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Uogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>605</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

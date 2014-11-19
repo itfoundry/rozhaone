@@ -11,9 +11,13 @@
       <point x="447" y="553"/>
       <point x="505" y="428"/>
       <point x="505" y="337" type="curve"/>
-      <point x="525" y="337" type="line"/>
+      <point x="505" y="337"/>
+      <point x="525" y="337"/>
+      <point x="525" y="337" type="curve"/>
       <point x="525" y="560" type="line"/>
-      <point x="506" y="560" type="line"/>
+      <point x="525" y="560"/>
+      <point x="506" y="560"/>
+      <point x="506" y="560" type="curve"/>
       <point x="506" y="548"/>
       <point x="497" y="523"/>
       <point x="475" y="523" type="curve" smooth="yes"/>
@@ -37,4 +41,36 @@
       <point x="186" y="71"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>560</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

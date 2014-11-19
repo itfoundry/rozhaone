@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvM_B_RA" format="1">
-  <advance width="933"/>
-  <outline>
-    <component base="dvM" xOffset="-2"/>
-    <component base="dvB_RA" xOffset="369"/>
-  </outline>
-</glyph>

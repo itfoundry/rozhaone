@@ -20,7 +20,9 @@
       <point x="181" y="308"/>
       <point x="196" y="430"/>
       <point x="331" y="430" type="curve"/>
-      <point x="331" y="450" type="line"/>
+      <point x="331" y="430"/>
+      <point x="331" y="450"/>
+      <point x="331" y="450" type="curve"/>
       <point x="112" y="450"/>
       <point x="21" y="368"/>
       <point x="21" y="220" type="curve" smooth="yes"/>
@@ -38,4 +40,33 @@
       <point x="389" y="520"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>572</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

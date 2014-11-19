@@ -87,4 +87,33 @@
       <point x="549" y="-220"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f_f_j</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>919.266894551</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

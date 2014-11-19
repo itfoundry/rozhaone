@@ -4,7 +4,7 @@
   <unicode hex="0024"/>
   <outline>
     <contour>
-      <point x="70" y="0" type="line"/>
+      <point x="70" y="0" type="curve"/>
       <point x="70" y="28"/>
       <point x="85" y="40"/>
       <point x="107" y="40" type="curve" smooth="yes"/>
@@ -26,9 +26,13 @@
       <point x="361" y="550"/>
       <point x="440" y="483"/>
       <point x="440" y="387" type="curve"/>
-      <point x="460" y="387" type="line"/>
+      <point x="440" y="387"/>
+      <point x="460" y="387"/>
+      <point x="460" y="387" type="curve"/>
       <point x="460" y="570" type="line"/>
-      <point x="440" y="570" type="line"/>
+      <point x="460" y="570"/>
+      <point x="440" y="570"/>
+      <point x="440" y="570" type="curve"/>
       <point x="440" y="556"/>
       <point x="436" y="535"/>
       <point x="420" y="535" type="curve" smooth="yes"/>
@@ -52,6 +56,8 @@
       <point x="70" y="233" type="curve"/>
       <point x="50" y="233" type="line"/>
       <point x="50" y="0" type="line"/>
+      <point x="50" y="0"/>
+      <point x="70" y="0"/>
     </contour>
     <contour>
       <point x="274" y="-51" type="line"/>
@@ -60,4 +66,33 @@
       <point x="274" y="633" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dollar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>548</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

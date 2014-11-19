@@ -21,7 +21,9 @@
       <point x="367" y="440" type="line"/>
       <point x="400" y="361" type="line"/>
       <point x="335" y="198" type="line"/>
-      <point x="227" y="440" type="line"/>
+      <point x="335" y="198"/>
+      <point x="227" y="440"/>
+      <point x="227" y="440" type="curve"/>
       <point x="280" y="440" type="line"/>
       <point x="280" y="460" type="line"/>
       <point x="10" y="460" type="line"/>
@@ -32,4 +34,36 @@
       <point x="412" y="331" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>830</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
